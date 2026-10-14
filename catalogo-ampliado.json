@@ -1,0 +1,4582 @@
+[
+  {
+    "cmd": "/handwritten",
+    "category": "Diseño",
+    "description": "Notas manuscritas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/handwritten [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/visualize",
+    "category": "Diseño",
+    "description": "Explicaciones visuales",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/visualize [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/stickynotes",
+    "category": "Diseño",
+    "description": "Notas adhesivas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/stickynotes [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/infographic",
+    "category": "Diseño",
+    "description": "Infografía",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/infographic [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/diagram",
+    "category": "Diseño",
+    "description": "Diagrama conceptual",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/diagram [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/flowchart",
+    "category": "Diseño",
+    "description": "Diagrama de flujo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/flowchart [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/xray",
+    "category": "Diseño",
+    "description": "Estructura interna",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/xray [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/blueprint",
+    "category": "Diseño",
+    "description": "Plano técnico",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/blueprint [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/explodedview",
+    "category": "Diseño",
+    "description": "Vista de piezas separadas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/explodedview [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/thenvsnow",
+    "category": "Diseño",
+    "description": "Antes y ahora",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/thenvsnow [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/timeline",
+    "category": "Diseño",
+    "description": "Cronología",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/timeline [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/beforeafter",
+    "category": "Diseño",
+    "description": "Antes y después",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/beforeafter [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/cutaway",
+    "category": "Diseño",
+    "description": "Vista de corte",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/cutaway [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/anatomy",
+    "category": "Diseño",
+    "description": "Anatomía de un sistema",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/anatomy [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/layers",
+    "category": "Diseño",
+    "description": "Capas explicativas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/layers [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/ecosystem",
+    "category": "Diseño",
+    "description": "Ecosistema de actores",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/ecosystem [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/journey",
+    "category": "Diseño",
+    "description": "Recorrido completo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/journey [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/process",
+    "category": "Diseño",
+    "description": "Proceso paso a paso",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/process [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/cycle",
+    "category": "Diseño",
+    "description": "Ciclo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/cycle [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/roadmap",
+    "category": "Diseño",
+    "description": "Hoja de ruta",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/roadmap [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/dashboard",
+    "category": "Diseño",
+    "description": "Panel de indicadores",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/dashboard [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/comparison",
+    "category": "Diseño",
+    "description": "Comparación visual",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/comparison [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/versus",
+    "category": "Diseño",
+    "description": "Enfrentamiento comparativo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/versus [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/scale",
+    "category": "Diseño",
+    "description": "Escalas de tamaño",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/scale [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/evolution",
+    "category": "Diseño",
+    "description": "Evolución",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/evolution [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/future",
+    "category": "Diseño",
+    "description": "Escenario futuro",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/future [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/inside",
+    "category": "Diseño",
+    "description": "Funcionamiento interno",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/inside [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/microscopic",
+    "category": "Diseño",
+    "description": "Vista microscópica",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/microscopic [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/macroscopic",
+    "category": "Diseño",
+    "description": "Vista macroscópica",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/macroscopic [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/crosssection",
+    "category": "Diseño",
+    "description": "Sección transversal",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/crosssection [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/map",
+    "category": "Diseño",
+    "description": "Mapa conceptual o geográfico",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/map [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/heatmap",
+    "category": "Diseño",
+    "description": "Mapa de calor",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/heatmap [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/network",
+    "category": "Diseño",
+    "description": "Red de relaciones",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/network [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/wireframe",
+    "category": "Diseño",
+    "description": "Esquema de interfaz",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/wireframe [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/mockup",
+    "category": "Diseño",
+    "description": "Maqueta visual",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/mockup [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/prototype",
+    "category": "Diseño",
+    "description": "Prototipo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/prototype [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/schematic",
+    "category": "Diseño",
+    "description": "Esquema técnico",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/schematic [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/isometric",
+    "category": "Diseño",
+    "description": "Vista isométrica",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/isometric [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/birdseye",
+    "category": "Diseño",
+    "description": "Vista cenital",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/birdseye [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/360view",
+    "category": "Diseño",
+    "description": "Vista desde múltiples ángulos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/360view [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/comic",
+    "category": "Diseño",
+    "description": "Viñetas de cómic",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/comic [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/poster",
+    "category": "Diseño",
+    "description": "Póster",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/poster [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/cover",
+    "category": "Diseño",
+    "description": "Portada",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/cover [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/adcreative",
+    "category": "Diseño",
+    "description": "Concepto visual publicitario",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/adcreative [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/thumbnail",
+    "category": "Diseño",
+    "description": "Miniatura",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/thumbnail [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/carousel",
+    "category": "Diseño",
+    "description": "Carrusel para redes",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/carousel [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/socialvisual",
+    "category": "Diseño",
+    "description": "Gráfico social",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/socialvisual [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/quotevisual",
+    "category": "Diseño",
+    "description": "Cita gráfica",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/quotevisual [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/expert",
+    "category": "Educación",
+    "description": "Explicación especializada",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/expert [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/socratic",
+    "category": "Educación",
+    "description": "Preguntas socráticas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/socratic [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/cheatsheet",
+    "category": "Educación",
+    "description": "Hoja de consulta rápida",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/cheatsheet [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/quiz",
+    "category": "Educación",
+    "description": "Cuestionario",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/quiz [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/viva",
+    "category": "Educación",
+    "description": "Examen oral",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/viva [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/interview",
+    "category": "Educación",
+    "description": "Entrevista simulada",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/interview [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/studyplan",
+    "category": "Educación",
+    "description": "Plan de estudio",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/studyplan [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/revisionplan",
+    "category": "Educación",
+    "description": "Plan de repaso",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/revisionplan [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/learningpath",
+    "category": "Educación",
+    "description": "Ruta de aprendizaje",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/learningpath [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/memory",
+    "category": "Educación",
+    "description": "Técnicas de memoria",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/memory [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/mnemonics",
+    "category": "Educación",
+    "description": "Reglas mnemotécnicas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/mnemonics [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/practice",
+    "category": "Educación",
+    "description": "Ejercicios de práctica",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/practice [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/challengequestions",
+    "category": "Educación",
+    "description": "Preguntas difíciles",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/challengequestions [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/teacher",
+    "category": "Educación",
+    "description": "Enseñar paso a paso",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/teacher [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/tutor",
+    "category": "Educación",
+    "description": "Tutoría personalizada",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/tutor [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/professor",
+    "category": "Educación",
+    "description": "Enfoque universitario",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/professor [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/beginner",
+    "category": "Educación",
+    "description": "Explicación inicial",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/beginner [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/advanced",
+    "category": "Educación",
+    "description": "Explicación avanzada",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/advanced [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/stepbystep",
+    "category": "Educación",
+    "description": "Instrucciones paso a paso",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/stepbystep [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/interactive",
+    "category": "Educación",
+    "description": "Aprendizaje interactivo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/interactive [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/walkthrough",
+    "category": "Educación",
+    "description": "Recorrido detallado",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/walkthrough [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/devilsadvocate",
+    "category": "Análisis",
+    "description": "Abogado del diablo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/devilsadvocate [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/mythvsfact",
+    "category": "Análisis",
+    "description": "Mitos frente a hechos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/mythvsfact [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/proscons",
+    "category": "Análisis",
+    "description": "Pros y contras",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/proscons [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/fivewhys",
+    "category": "Análisis",
+    "description": "Cinco porqués",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/fivewhys [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/scenario",
+    "category": "Análisis",
+    "description": "Escenarios",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/scenario [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/simulate",
+    "category": "Análisis",
+    "description": "Simulación",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/simulate [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/roleplay",
+    "category": "Análisis",
+    "description": "Juego de roles",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/roleplay [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/insights",
+    "category": "Análisis",
+    "description": "Extraer hallazgos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/insights [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/premortem",
+    "category": "Análisis",
+    "description": "Análisis previo de fallos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/premortem [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/reverseengineer",
+    "category": "Análisis",
+    "description": "Ingeniería inversa",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/reverseengineer [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/decisiontree",
+    "category": "Análisis",
+    "description": "Árbol de decisión",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/decisiontree [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/fishbone",
+    "category": "Análisis",
+    "description": "Diagrama Ishikawa",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/fishbone [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/pareto",
+    "category": "Análisis",
+    "description": "Análisis Pareto",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/pareto [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/critic",
+    "category": "Análisis",
+    "description": "Crítica constructiva",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/critic [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/audit",
+    "category": "Análisis",
+    "description": "Auditoría",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/audit [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/framework",
+    "category": "Análisis",
+    "description": "Marco de análisis",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/framework [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/counterargument",
+    "category": "Análisis",
+    "description": "Contraargumentos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/counterargument [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/validate",
+    "category": "Análisis",
+    "description": "Validación",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/validate [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/assumptions",
+    "category": "Análisis",
+    "description": "Supuestos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/assumptions [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/constraints",
+    "category": "Análisis",
+    "description": "Restricciones",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/constraints [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/tradeoffs",
+    "category": "Análisis",
+    "description": "Compensaciones",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/tradeoffs [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/risksfuture",
+    "category": "Análisis",
+    "description": "Riesgos futuros",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/risksfuture [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/trendanalysis",
+    "category": "Análisis",
+    "description": "Análisis de tendencias",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/trendanalysis [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/signals",
+    "category": "Análisis",
+    "description": "Señales emergentes",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/signals [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/mentalmodels",
+    "category": "Análisis",
+    "description": "Modelos mentales",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/mentalmodels [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/heuristics",
+    "category": "Análisis",
+    "description": "Heurísticas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/heuristics [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/principles",
+    "category": "Análisis",
+    "description": "Principios",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/principles [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/frameworkcompare",
+    "category": "Análisis",
+    "description": "Comparar marcos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/frameworkcompare [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/disagreement",
+    "category": "Análisis",
+    "description": "Desacuerdos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/disagreement [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/consensus",
+    "category": "Análisis",
+    "description": "Consenso",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/consensus [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/limitations",
+    "category": "Análisis",
+    "description": "Limitaciones",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/limitations [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/assess",
+    "category": "Análisis",
+    "description": "Evaluación general",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/assess [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/pestle",
+    "category": "Negocios",
+    "description": "Análisis PESTLE",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/pestle [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/fiveforces",
+    "category": "Negocios",
+    "description": "Cinco fuerzas de Porter",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/fiveforces [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/consultant",
+    "category": "Negocios",
+    "description": "Enfoque consultor",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/consultant [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/executivebrief",
+    "category": "Negocios",
+    "description": "Resumen ejecutivo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/executivebrief [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/recommendations",
+    "category": "Negocios",
+    "description": "Recomendaciones",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/recommendations [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/prioritize",
+    "category": "Negocios",
+    "description": "Priorizar",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/prioritize [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/benchmark",
+    "category": "Negocios",
+    "description": "Comparar referentes",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/benchmark [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/marketmap",
+    "category": "Negocios",
+    "description": "Mapa del mercado",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/marketmap [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/businessmodel",
+    "category": "Negocios",
+    "description": "Modelo de negocio",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/businessmodel [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/pitch",
+    "category": "Negocios",
+    "description": "Presentación de negocio",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/pitch [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/investor",
+    "category": "Negocios",
+    "description": "Perspectiva del inversor",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/investor [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/lean",
+    "category": "Negocios",
+    "description": "Enfoque Lean",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/lean [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/sixsigma",
+    "category": "Negocios",
+    "description": "Seis Sigma",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/sixsigma [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/budget",
+    "category": "Negocios",
+    "description": "Presupuesto",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/budget [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/forecast",
+    "category": "Negocios",
+    "description": "Pronóstico",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/forecast [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/metrics",
+    "category": "Negocios",
+    "description": "Indicadores",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/metrics [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/dashboardmetrics",
+    "category": "Negocios",
+    "description": "Métricas de tablero",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/dashboardmetrics [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/okr",
+    "category": "Negocios",
+    "description": "Objetivos y resultados",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/okr [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/kpi",
+    "category": "Negocios",
+    "description": "Indicadores clave",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/kpi [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/smartgoals",
+    "category": "Negocios",
+    "description": "Objetivos SMART",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/smartgoals [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/risks",
+    "category": "Negocios",
+    "description": "Riesgos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/risks [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/riskmatrix",
+    "category": "Negocios",
+    "description": "Matriz de riesgos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/riskmatrix [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/opportunities",
+    "category": "Negocios",
+    "description": "Oportunidades",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/opportunities [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/negotiation",
+    "category": "Negocios",
+    "description": "Simulación de negociación",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/negotiation [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/advisor",
+    "category": "Negocios",
+    "description": "Asesoría",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/advisor [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/mentor",
+    "category": "Negocios",
+    "description": "Mentoría",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/mentor [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/coach",
+    "category": "Negocios",
+    "description": "Acompañamiento",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/coach [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/economist",
+    "category": "Negocios",
+    "description": "Perspectiva económica",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/economist [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/productmanager",
+    "category": "Negocios",
+    "description": "Gestión de producto",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/productmanager [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/founder",
+    "category": "Negocios",
+    "description": "Perspectiva de fundador",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/founder [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/ceo",
+    "category": "Negocios",
+    "description": "Perspectiva directiva",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/ceo [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/investorview",
+    "category": "Negocios",
+    "description": "Evaluación de inversión",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/investorview [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/customer",
+    "category": "Negocios",
+    "description": "Perspectiva del cliente",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/customer [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/viral",
+    "category": "Marketing",
+    "description": "Optimizar viralidad",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/viral [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/viralreel",
+    "category": "Marketing",
+    "description": "Reel de alta retención",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/viralreel [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/viralshorts",
+    "category": "Marketing",
+    "description": "Short de alta retención",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/viralshorts [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/hook",
+    "category": "Marketing",
+    "description": "Frase de apertura",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/hook [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/hook10",
+    "category": "Marketing",
+    "description": "Diez ganchos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/hook10 [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/hook50",
+    "category": "Marketing",
+    "description": "Cincuenta ganchos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/hook50 [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/retention",
+    "category": "Marketing",
+    "description": "Mejorar retención",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/retention [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/retentioncurve",
+    "category": "Marketing",
+    "description": "Curva de atención",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/retentioncurve [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/patterninterrupt",
+    "category": "Marketing",
+    "description": "Interrupción de patrón",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/patterninterrupt [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/openloop",
+    "category": "Marketing",
+    "description": "Curiosidad abierta",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/openloop [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/curiosity",
+    "category": "Marketing",
+    "description": "Despertar curiosidad",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/curiosity [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/psychology",
+    "category": "Marketing",
+    "description": "Principios psicológicos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/psychology [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/dopamine",
+    "category": "Marketing",
+    "description": "Contenido gratificante",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/dopamine [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/emotion",
+    "category": "Marketing",
+    "description": "Impacto emocional",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/emotion [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/fear",
+    "category": "Marketing",
+    "description": "Temor con enfoque ético",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/fear [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/surprise",
+    "category": "Marketing",
+    "description": "Sorpresa",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/surprise [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/shock",
+    "category": "Marketing",
+    "description": "Apertura sorprendente",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/shock [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/storytelling",
+    "category": "Marketing",
+    "description": "Narrativa",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/storytelling [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/herojourney",
+    "category": "Marketing",
+    "description": "Viaje del héroe",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/herojourney [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/linkedin",
+    "category": "Marketing",
+    "description": "Publicación LinkedIn",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/linkedin [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/twitter",
+    "category": "Marketing",
+    "description": "Publicación X",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/twitter [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/facebook",
+    "category": "Marketing",
+    "description": "Publicación Facebook",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/facebook [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/instagram",
+    "category": "Marketing",
+    "description": "Texto Instagram",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/instagram [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/caption",
+    "category": "Marketing",
+    "description": "Pie de publicación",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/caption [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/caption10",
+    "category": "Marketing",
+    "description": "Diez pies de publicación",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/caption10 [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/hashtags",
+    "category": "Marketing",
+    "description": "Etiquetas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/hashtags [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/engagement",
+    "category": "Marketing",
+    "description": "Participación",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/engagement [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/shareworthy",
+    "category": "Marketing",
+    "description": "Contenido compartible",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/shareworthy [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/saveworthy",
+    "category": "Marketing",
+    "description": "Contenido guardable",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/saveworthy [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/commentbait",
+    "category": "Marketing",
+    "description": "Provocar conversación",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/commentbait [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/poll",
+    "category": "Marketing",
+    "description": "Encuesta",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/poll [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/communitypost",
+    "category": "Marketing",
+    "description": "Publicación de comunidad",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/communitypost [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/newsletter",
+    "category": "Marketing",
+    "description": "Boletín",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/newsletter [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/blog",
+    "category": "Marketing",
+    "description": "Artículo de blog",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/blog [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/keywords",
+    "category": "Marketing",
+    "description": "Palabras clave",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/keywords [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/headline",
+    "category": "Marketing",
+    "description": "Titular",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/headline [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/titles",
+    "category": "Marketing",
+    "description": "Variantes de título",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/titles [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/thumbnailtext",
+    "category": "Marketing",
+    "description": "Texto de miniatura",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/thumbnailtext [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/thumbnailaudit",
+    "category": "Marketing",
+    "description": "Auditoría de miniatura",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/thumbnailaudit [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/titleaudit",
+    "category": "Marketing",
+    "description": "Auditoría de título",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/titleaudit [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/contentaudit",
+    "category": "Marketing",
+    "description": "Auditoría de contenido",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/contentaudit [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/copywriter",
+    "category": "Marketing",
+    "description": "Redacción publicitaria",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/copywriter [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/landingpage",
+    "category": "Marketing",
+    "description": "Página de aterrizaje",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/landingpage [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/salespage",
+    "category": "Marketing",
+    "description": "Página de ventas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/salespage [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/emailmarketing",
+    "category": "Marketing",
+    "description": "Correo de marketing",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/emailmarketing [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/coldemail",
+    "category": "Marketing",
+    "description": "Correo de prospección",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/coldemail [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/sales",
+    "category": "Marketing",
+    "description": "Mensaje de ventas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/sales [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/branding",
+    "category": "Marketing",
+    "description": "Posicionamiento de marca",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/branding [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/brandvoice",
+    "category": "Marketing",
+    "description": "Voz de marca",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/brandvoice [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/positioning",
+    "category": "Marketing",
+    "description": "Posicionamiento",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/positioning [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/offer",
+    "category": "Marketing",
+    "description": "Oferta comercial",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/offer [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/usp",
+    "category": "Marketing",
+    "description": "Propuesta diferenciadora",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/usp [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/valueprop",
+    "category": "Marketing",
+    "description": "Propuesta de valor",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/valueprop [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/campaign",
+    "category": "Marketing",
+    "description": "Campaña",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/campaign [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/launch",
+    "category": "Marketing",
+    "description": "Lanzamiento",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/launch [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/contentcalendar",
+    "category": "Marketing",
+    "description": "Calendario editorial",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/contentcalendar [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/postingplan",
+    "category": "Marketing",
+    "description": "Plan de publicación",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/postingplan [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/series",
+    "category": "Marketing",
+    "description": "Serie de contenidos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/series [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/challenge",
+    "category": "Marketing",
+    "description": "Reto promocional",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/challenge [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/trend",
+    "category": "Marketing",
+    "description": "Tendencia",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/trend [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/evergreen",
+    "category": "Marketing",
+    "description": "Contenido atemporal",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/evergreen [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/repurpose",
+    "category": "Marketing",
+    "description": "Reutilizar contenido",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/repurpose [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/script",
+    "category": "Video",
+    "description": "Guion",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/script [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/script30",
+    "category": "Video",
+    "description": "Guion de 30 segundos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/script30 [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/script90",
+    "category": "Video",
+    "description": "Guion de 90 segundos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/script90 [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/script180",
+    "category": "Video",
+    "description": "Guion de tres minutos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/script180 [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/narration",
+    "category": "Video",
+    "description": "Narración",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/narration [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/voiceover",
+    "category": "Video",
+    "description": "Voz en off",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/voiceover [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/monologue",
+    "category": "Video",
+    "description": "Monólogo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/monologue [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/dialogue",
+    "category": "Video",
+    "description": "Diálogo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/dialogue [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/podcast",
+    "category": "Video",
+    "description": "Episodio de pódcast",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/podcast [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/youtube",
+    "category": "Video",
+    "description": "Video de YouTube",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/youtube [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/shorts",
+    "category": "Video",
+    "description": "Formato Shorts",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/shorts [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/reels",
+    "category": "Video",
+    "description": "Formato Reels",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/reels [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/tiktok",
+    "category": "Video",
+    "description": "Formato TikTok",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/tiktok [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/broll",
+    "category": "Video",
+    "description": "Planos de apoyo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/broll [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/shotlist",
+    "category": "Video",
+    "description": "Lista de tomas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/shotlist [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/cameraangles",
+    "category": "Video",
+    "description": "Ángulos de cámara",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/cameraangles [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/cinematic",
+    "category": "Video",
+    "description": "Tratamiento cinematográfico",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/cinematic [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/cinematicsketch",
+    "category": "Video",
+    "description": "Boceto cinematográfico",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/cinematicsketch [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/storyboardpro",
+    "category": "Video",
+    "description": "Storyboard detallado",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/storyboardpro [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/sceneplan",
+    "category": "Video",
+    "description": "Plan de escenas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/sceneplan [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/transitions",
+    "category": "Video",
+    "description": "Transiciones",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/transitions [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/motiongraphics",
+    "category": "Video",
+    "description": "Gráficos animados",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/motiongraphics [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/vox",
+    "category": "Video",
+    "description": "Estilo documental Vox",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/vox [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/johnnyharris",
+    "category": "Video",
+    "description": "Estilo documental narrativo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/johnnyharris [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/magnatesmedia",
+    "category": "Video",
+    "description": "Estilo documental audiovisual",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/magnatesmedia [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/kurzgesagt",
+    "category": "Video",
+    "description": "Explicación animada",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/kurzgesagt [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/netflix",
+    "category": "Video",
+    "description": "Tono documental",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/netflix [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/bbc",
+    "category": "Video",
+    "description": "Tono documental informativo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/bbc [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/natgeo",
+    "category": "Video",
+    "description": "Estilo documental naturaleza",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/natgeo [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/photorealistic",
+    "category": "Imágenes",
+    "description": "Fotografía realista",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/photorealistic [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/hyperrealistic",
+    "category": "Imágenes",
+    "description": "Hiperrealismo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/hyperrealistic [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/cinematicphoto",
+    "category": "Imágenes",
+    "description": "Fotografía cinematográfica",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/cinematicphoto [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/portrait",
+    "category": "Imágenes",
+    "description": "Retrato",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/portrait [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/headshot",
+    "category": "Imágenes",
+    "description": "Retrato profesional",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/headshot [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/editorial",
+    "category": "Imágenes",
+    "description": "Fotografía editorial",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/editorial [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/fashion",
+    "category": "Imágenes",
+    "description": "Fotografía de moda",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/fashion [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/lifestyle",
+    "category": "Imágenes",
+    "description": "Fotografía de estilo de vida",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/lifestyle [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/streetphoto",
+    "category": "Imágenes",
+    "description": "Fotografía callejera",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/streetphoto [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/travelphoto",
+    "category": "Imágenes",
+    "description": "Fotografía de viajes",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/travelphoto [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/wildlife",
+    "category": "Imágenes",
+    "description": "Fauna",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/wildlife [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/macrophoto",
+    "category": "Imágenes",
+    "description": "Macrofotografía",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/macrophoto [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/droneview",
+    "category": "Imágenes",
+    "description": "Vista con dron",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/droneview [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/360drone",
+    "category": "Imágenes",
+    "description": "Vista aérea panorámica",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/360drone [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/topdown",
+    "category": "Imágenes",
+    "description": "Composición cenital",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/topdown [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/lowangle",
+    "category": "Imágenes",
+    "description": "Ángulo bajo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/lowangle [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/highangle",
+    "category": "Imágenes",
+    "description": "Ángulo alto",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/highangle [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/wideangle",
+    "category": "Imágenes",
+    "description": "Gran angular",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/wideangle [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/telephoto",
+    "category": "Imágenes",
+    "description": "Teleobjetivo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/telephoto [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/fisheye",
+    "category": "Imágenes",
+    "description": "Ojo de pez",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/fisheye [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/depthoffield",
+    "category": "Imágenes",
+    "description": "Profundidad de campo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/depthoffield [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/bokeh",
+    "category": "Imágenes",
+    "description": "Desenfoque",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/bokeh [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/goldenhour",
+    "category": "Imágenes",
+    "description": "Hora dorada",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/goldenhour [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/bluehour",
+    "category": "Imágenes",
+    "description": "Hora azul",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/bluehour [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/sunset",
+    "category": "Imágenes",
+    "description": "Atardecer",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/sunset [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/sunrise",
+    "category": "Imágenes",
+    "description": "Amanecer",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/sunrise [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/nightmode",
+    "category": "Imágenes",
+    "description": "Fotografía nocturna",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/nightmode [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/neon",
+    "category": "Imágenes",
+    "description": "Luz de neón",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/neon [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/moody",
+    "category": "Imágenes",
+    "description": "Ambiente sombrío",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/moody [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/dramaticlighting",
+    "category": "Imágenes",
+    "description": "Luz dramática",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/dramaticlighting [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/volumetriclight",
+    "category": "Imágenes",
+    "description": "Luz volumétrica",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/volumetriclight [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/rimlight",
+    "category": "Imágenes",
+    "description": "Luz de contorno",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/rimlight [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/silhouette",
+    "category": "Imágenes",
+    "description": "Silueta",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/silhouette [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/backlit",
+    "category": "Imágenes",
+    "description": "Contraluz",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/backlit [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/blackandwhite",
+    "category": "Imágenes",
+    "description": "Blanco y negro",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/blackandwhite [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/filmgrain",
+    "category": "Imágenes",
+    "description": "Grano de película",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/filmgrain [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/kodak",
+    "category": "Imágenes",
+    "description": "Estética Kodak",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/kodak [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/fujifilm",
+    "category": "Imágenes",
+    "description": "Estética Fujifilm",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/fujifilm [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/polaroid",
+    "category": "Imágenes",
+    "description": "Fotografía instantánea",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/polaroid [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/vintage",
+    "category": "Imágenes",
+    "description": "Estética vintage",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/vintage [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/retro",
+    "category": "Imágenes",
+    "description": "Estética retro",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/retro [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/80s",
+    "category": "Imágenes",
+    "description": "Estética ochentera",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/80s [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/90s",
+    "category": "Imágenes",
+    "description": "Estética noventera",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/90s [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/cyberpunk",
+    "category": "Imágenes",
+    "description": "Estética cyberpunk",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/cyberpunk [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/steampunk",
+    "category": "Imágenes",
+    "description": "Estética steampunk",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/steampunk [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/dieselpunk",
+    "category": "Imágenes",
+    "description": "Estética dieselpunk",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/dieselpunk [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/solarpunk",
+    "category": "Imágenes",
+    "description": "Estética solarpunk",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/solarpunk [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/postapocalyptic",
+    "category": "Imágenes",
+    "description": "Mundo posapocalíptico",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/postapocalyptic [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/fantasy",
+    "category": "Imágenes",
+    "description": "Arte fantástico",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/fantasy [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/scifi",
+    "category": "Imágenes",
+    "description": "Ciencia ficción",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/scifi [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/space",
+    "category": "Imágenes",
+    "description": "Espacio exterior",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/space [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/planet",
+    "category": "Imágenes",
+    "description": "Planeta",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/planet [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/galaxy",
+    "category": "Imágenes",
+    "description": "Galaxia",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/galaxy [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/nebula",
+    "category": "Imágenes",
+    "description": "Nebulosa",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/nebula [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/underwater",
+    "category": "Imágenes",
+    "description": "Escena submarina",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/underwater [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/ocean",
+    "category": "Imágenes",
+    "description": "Océano",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/ocean [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/mountains",
+    "category": "Imágenes",
+    "description": "Montañas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/mountains [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/forest",
+    "category": "Imágenes",
+    "description": "Bosque",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/forest [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/desert",
+    "category": "Imágenes",
+    "description": "Desierto",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/desert [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/cityscape",
+    "category": "Imágenes",
+    "description": "Ciudad",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/cityscape [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/architecturephoto",
+    "category": "Imágenes",
+    "description": "Fotografía arquitectónica",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/architecturephoto [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/interior",
+    "category": "Imágenes",
+    "description": "Diseño interior",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/interior [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/minimalinterior",
+    "category": "Imágenes",
+    "description": "Interior minimalista",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/minimalinterior [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/luxury",
+    "category": "Imágenes",
+    "description": "Estética de lujo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/luxury [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/productphoto",
+    "category": "Imágenes",
+    "description": "Fotografía de producto",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/productphoto [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/packaging",
+    "category": "Imágenes",
+    "description": "Empaque",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/packaging [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/advertising",
+    "category": "Imágenes",
+    "description": "Publicidad visual",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/advertising [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/billboard",
+    "category": "Imágenes",
+    "description": "Valla publicitaria",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/billboard [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/posterdesign",
+    "category": "Imágenes",
+    "description": "Diseño de cartel",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/posterdesign [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/brandingmockup",
+    "category": "Imágenes",
+    "description": "Maqueta de marca",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/brandingmockup [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/iconset",
+    "category": "Imágenes",
+    "description": "Conjunto de iconos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/iconset [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/mascot",
+    "category": "Imágenes",
+    "description": "Mascota gráfica",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/mascot [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/characterdesign",
+    "category": "Imágenes",
+    "description": "Diseño de personaje",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/characterdesign [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/conceptart",
+    "category": "Imágenes",
+    "description": "Arte conceptual",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/conceptart [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/environmentart",
+    "category": "Imágenes",
+    "description": "Entorno artístico",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/environmentart [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/mattepainting",
+    "category": "Imágenes",
+    "description": "Matte painting",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/mattepainting [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/digitalpainting",
+    "category": "Imágenes",
+    "description": "Pintura digital",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/digitalpainting [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/oilpainting",
+    "category": "Imágenes",
+    "description": "Óleo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/oilpainting [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/watercolor",
+    "category": "Imágenes",
+    "description": "Acuarela",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/watercolor [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/acrylic",
+    "category": "Imágenes",
+    "description": "Acrílico",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/acrylic [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/charcoal",
+    "category": "Imágenes",
+    "description": "Carboncillo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/charcoal [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/pencilsketch",
+    "category": "Imágenes",
+    "description": "Boceto a lápiz",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/pencilsketch [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/inkdrawing",
+    "category": "Imágenes",
+    "description": "Dibujo a tinta",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/inkdrawing [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/crosshatching",
+    "category": "Imágenes",
+    "description": "Sombreado cruzado",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/crosshatching [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/comicbook",
+    "category": "Imágenes",
+    "description": "Estilo cómic",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/comicbook [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/manga",
+    "category": "Imágenes",
+    "description": "Manga",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/manga [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/anime",
+    "category": "Imágenes",
+    "description": "Anime",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/anime [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/ghibli",
+    "category": "Imágenes",
+    "description": "Estética animada japonesa",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/ghibli [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/pixar",
+    "category": "Imágenes",
+    "description": "Animación tridimensional",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/pixar [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/lowpoly",
+    "category": "Imágenes",
+    "description": "Polígonos simples",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/lowpoly [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/voxel",
+    "category": "Imágenes",
+    "description": "Arte voxel",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/voxel [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/pixelart",
+    "category": "Imágenes",
+    "description": "Pixel art",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/pixelart [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/clayrender",
+    "category": "Imágenes",
+    "description": "Render de arcilla",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/clayrender [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/3drender",
+    "category": "Imágenes",
+    "description": "Render tridimensional",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/3drender [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/octanerender",
+    "category": "Imágenes",
+    "description": "Render fotorrealista",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/octanerender [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/unrealengine",
+    "category": "Imágenes",
+    "description": "Estética de motor gráfico",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/unrealengine [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/blender",
+    "category": "Imágenes",
+    "description": "Visualización 3D",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/blender [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/midjourneystyle",
+    "category": "Imágenes",
+    "description": "Estética de imagen generativa",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/midjourneystyle [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/imageprompt",
+    "category": "Imágenes",
+    "description": "Prompt de imagen",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/imageprompt [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/polish",
+    "category": "Escritura",
+    "description": "Pulir estilo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/polish [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/proofread",
+    "category": "Escritura",
+    "description": "Corregir texto",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/proofread [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/grammar",
+    "category": "Escritura",
+    "description": "Corregir gramática",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/grammar [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/copyedit",
+    "category": "Escritura",
+    "description": "Edición profesional",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/copyedit [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/expand",
+    "category": "Escritura",
+    "description": "Ampliar contenido",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/expand [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/shorten",
+    "category": "Escritura",
+    "description": "Acortar",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/shorten [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/paraphrase",
+    "category": "Escritura",
+    "description": "Parafrasear",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/paraphrase [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/simplifytext",
+    "category": "Escritura",
+    "description": "Simplificar texto",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/simplifytext [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/formal",
+    "category": "Escritura",
+    "description": "Tono formal",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/formal [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/casual",
+    "category": "Escritura",
+    "description": "Tono informal",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/casual [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/friendly",
+    "category": "Escritura",
+    "description": "Tono cordial",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/friendly [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/professional",
+    "category": "Escritura",
+    "description": "Tono profesional",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/professional [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/persuasive",
+    "category": "Escritura",
+    "description": "Tono persuasivo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/persuasive [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/convincing",
+    "category": "Escritura",
+    "description": "Fortalecer argumentos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/convincing [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/academic",
+    "category": "Escritura",
+    "description": "Redacción académica",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/academic [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/journalistic",
+    "category": "Escritura",
+    "description": "Redacción periodística",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/journalistic [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/story",
+    "category": "Escritura",
+    "description": "Narración",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/story [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/essay",
+    "category": "Escritura",
+    "description": "Ensayo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/essay [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/article",
+    "category": "Escritura",
+    "description": "Artículo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/article [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/report",
+    "category": "Escritura",
+    "description": "Informe",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/report [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/whitepaper",
+    "category": "Escritura",
+    "description": "Informe técnico",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/whitepaper [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/casestudy",
+    "category": "Escritura",
+    "description": "Estudio de caso",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/casestudy [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/proposal",
+    "category": "Escritura",
+    "description": "Propuesta",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/proposal [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/sop",
+    "category": "Escritura",
+    "description": "Procedimiento operativo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/sop [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/playbook",
+    "category": "Escritura",
+    "description": "Manual de actuación",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/playbook [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/manual",
+    "category": "Escritura",
+    "description": "Manual",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/manual [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/guide",
+    "category": "Escritura",
+    "description": "Guía",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/guide [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/faq",
+    "category": "Escritura",
+    "description": "Preguntas frecuentes",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/faq [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/template",
+    "category": "Escritura",
+    "description": "Plantilla",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/template [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/bulletpoints",
+    "category": "Escritura",
+    "description": "Viñetas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/bulletpoints [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/highlights",
+    "category": "Escritura",
+    "description": "Aspectos destacados",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/highlights [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/notes",
+    "category": "Escritura",
+    "description": "Notas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/notes [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/minutes",
+    "category": "Escritura",
+    "description": "Acta de reunión",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/minutes [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/agenda",
+    "category": "Escritura",
+    "description": "Agenda",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/agenda [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/meetingsummary",
+    "category": "Escritura",
+    "description": "Resumen de reunión",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/meetingsummary [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/todo",
+    "category": "Productividad",
+    "description": "Lista de tareas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/todo [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/kanban",
+    "category": "Productividad",
+    "description": "Tablero Kanban",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/kanban [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/gantt",
+    "category": "Productividad",
+    "description": "Diagrama Gantt",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/gantt [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/roadmap90",
+    "category": "Productividad",
+    "description": "Hoja de ruta 90 días",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/roadmap90 [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/roadmapyear",
+    "category": "Productividad",
+    "description": "Plan anual",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/roadmapyear [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/milestones",
+    "category": "Productividad",
+    "description": "Hitos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/milestones [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/dependencies",
+    "category": "Productividad",
+    "description": "Dependencias",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/dependencies [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/estimate",
+    "category": "Productividad",
+    "description": "Estimación",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/estimate [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/agile",
+    "category": "Productividad",
+    "description": "Agilidad",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/agile [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/scrum",
+    "category": "Productividad",
+    "description": "Scrum",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/scrum [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/kanbanflow",
+    "category": "Productividad",
+    "description": "Flujo Kanban",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/kanbanflow [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/productivity",
+    "category": "Productividad",
+    "description": "Productividad",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/productivity [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/timemanagement",
+    "category": "Productividad",
+    "description": "Gestión del tiempo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/timemanagement [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/pomodoro",
+    "category": "Productividad",
+    "description": "Técnica Pomodoro",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/pomodoro [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/optimization",
+    "category": "Productividad",
+    "description": "Optimización",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/optimization [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/efficiency",
+    "category": "Productividad",
+    "description": "Eficiencia",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/efficiency [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/coding",
+    "category": "Programación",
+    "description": "Escribir código",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/coding [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/optimizecode",
+    "category": "Programación",
+    "description": "Optimizar código",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/optimizecode [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/pseudocode",
+    "category": "Programación",
+    "description": "Pseudocódigo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/pseudocode [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/datastructure",
+    "category": "Programación",
+    "description": "Estructura de datos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/datastructure [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/regex",
+    "category": "Programación",
+    "description": "Expresión regular",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/regex [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/api",
+    "category": "Programación",
+    "description": "Diseño de API",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/api [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/json",
+    "category": "Programación",
+    "description": "Datos JSON",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/json [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/yaml",
+    "category": "Programación",
+    "description": "Datos YAML",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/yaml [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/csv",
+    "category": "Programación",
+    "description": "Datos CSV",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/csv [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/xml",
+    "category": "Programación",
+    "description": "Datos XML",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/xml [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/sources",
+    "category": "Investigación",
+    "description": "Fuentes fiables",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/sources [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/extract",
+    "category": "Investigación",
+    "description": "Extraer información",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/extract [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/researchplan",
+    "category": "Investigación",
+    "description": "Plan de investigación",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/researchplan [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/literaturereview",
+    "category": "Investigación",
+    "description": "Revisión bibliográfica",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/literaturereview [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/hypothesis",
+    "category": "Investigación",
+    "description": "Hipótesis",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/hypothesis [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/experiment",
+    "category": "Investigación",
+    "description": "Experimento",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/experiment [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/peerreview",
+    "category": "Investigación",
+    "description": "Revisión por pares",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/peerreview [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/scientist",
+    "category": "Investigación",
+    "description": "Perspectiva científica",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/scientist [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/journalist",
+    "category": "Investigación",
+    "description": "Investigación periodística",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/journalist [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/ideas10",
+    "category": "IA avanzada",
+    "description": "Diez ideas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/ideas10 [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/ideas50",
+    "category": "IA avanzada",
+    "description": "Cincuenta ideas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/ideas50 [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/creative",
+    "category": "IA avanzada",
+    "description": "Creatividad",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/creative [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/innovate",
+    "category": "IA avanzada",
+    "description": "Innovación",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/innovate [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/outofthebox",
+    "category": "IA avanzada",
+    "description": "Ideas no convencionales",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/outofthebox [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/inspiration",
+    "category": "IA avanzada",
+    "description": "Inspiración",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/inspiration [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/random",
+    "category": "IA avanzada",
+    "description": "Ideas aleatorias",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/random [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/combine",
+    "category": "IA avanzada",
+    "description": "Combinar conceptos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/combine [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/remix",
+    "category": "IA avanzada",
+    "description": "Recombinar ideas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/remix [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/alternate",
+    "category": "IA avanzada",
+    "description": "Enfoques alternativos",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/alternate [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/variants",
+    "category": "IA avanzada",
+    "description": "Variantes",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/variants [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/options",
+    "category": "IA avanzada",
+    "description": "Opciones",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/options [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/compareideas",
+    "category": "IA avanzada",
+    "description": "Comparar ideas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/compareideas [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/bestoption",
+    "category": "IA avanzada",
+    "description": "Mejor opción",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/bestoption [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/decision",
+    "category": "IA avanzada",
+    "description": "Ayuda para decidir",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/decision [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/simulation",
+    "category": "IA avanzada",
+    "description": "Simulación",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/simulation [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/automation",
+    "category": "IA avanzada",
+    "description": "Oportunidades de automatización",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/automation [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/workflow",
+    "category": "IA avanzada",
+    "description": "Flujo de trabajo",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/workflow [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/pipeline",
+    "category": "IA avanzada",
+    "description": "Pipeline",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/pipeline [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/bestpractice",
+    "category": "IA avanzada",
+    "description": "Buenas prácticas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/bestpractice [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/mistakes",
+    "category": "IA avanzada",
+    "description": "Errores frecuentes",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/mistakes [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/dosanddonts",
+    "category": "IA avanzada",
+    "description": "Buenas y malas prácticas",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/dosanddonts [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/promptlibrary",
+    "category": "IA avanzada",
+    "description": "Biblioteca de prompts",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/promptlibrary [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/role",
+    "category": "IA avanzada",
+    "description": "Rol",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/role [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/confidence",
+    "category": "IA avanzada",
+    "description": "Nivel de confianza",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/confidence [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/finalanswer",
+    "category": "IA avanzada",
+    "description": "Respuesta final",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/finalanswer [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/thinking",
+    "category": "IA avanzada",
+    "description": "Resumen de razonamiento",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/thinking [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/executemode",
+    "category": "IA avanzada",
+    "description": "Modo de ejecución",
+    "status": "Comunitario",
+    "source": "https://github.com/Ronit049/ChatGPT-Command-Library",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/executemode [describe aquí tu tema y contexto]",
+    "origin": "Ronit049/ChatGPT-Command-Library"
+  },
+  {
+    "cmd": "/mangacover",
+    "category": "Imágenes",
+    "description": "Portada manga",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/mangacover [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/vaporwave",
+    "category": "Imágenes",
+    "description": "Estética vaporwave",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/vaporwave [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/lego",
+    "category": "Imágenes",
+    "description": "Estética LEGO",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/lego [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/ascii",
+    "category": "Imágenes",
+    "description": "Arte con caracteres",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/ascii [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/origami",
+    "category": "Imágenes",
+    "description": "Arte de origami",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/origami [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/claymation",
+    "category": "Imágenes",
+    "description": "Animación de plastilina",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/claymation [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/papercut",
+    "category": "Imágenes",
+    "description": "Papel recortado",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/papercut [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/stainedglass",
+    "category": "Imágenes",
+    "description": "Vitral",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/stainedglass [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/astronaut",
+    "category": "Imágenes",
+    "description": "Astronauta",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/astronaut [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/mars",
+    "category": "Imágenes",
+    "description": "Paisaje marciano",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/mars [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/moonlight",
+    "category": "Imágenes",
+    "description": "Luz de luna",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/moonlight [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/jungle",
+    "category": "Imágenes",
+    "description": "Selva",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/jungle [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/volcano",
+    "category": "Imágenes",
+    "description": "Volcán",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/volcano [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/snow",
+    "category": "Imágenes",
+    "description": "Nieve",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/snow [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/rain",
+    "category": "Imágenes",
+    "description": "Lluvia",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/rain [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/storm",
+    "category": "Imágenes",
+    "description": "Tormenta",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/storm [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/nightcity",
+    "category": "Imágenes",
+    "description": "Ciudad nocturna",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/nightcity [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/miniature",
+    "category": "Imágenes",
+    "description": "Miniatura",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/miniature [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/toybox",
+    "category": "Imágenes",
+    "description": "Caja de juguete",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/toybox [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/actionfigure",
+    "category": "Imágenes",
+    "description": "Figura coleccionable",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/actionfigure [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/funko",
+    "category": "Imágenes",
+    "description": "Figura tipo Funko",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/funko [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/doubleexposure",
+    "category": "Imágenes",
+    "description": "Doble exposición",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/doubleexposure [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/woodcarving",
+    "category": "Imágenes",
+    "description": "Tallado en madera",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/woodcarving [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/icecarving",
+    "category": "Imágenes",
+    "description": "Tallado en hielo",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/icecarving [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/marble",
+    "category": "Imágenes",
+    "description": "Mármol",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/marble [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/bronze",
+    "category": "Imágenes",
+    "description": "Bronce",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/bronze [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/ceramic",
+    "category": "Imágenes",
+    "description": "Cerámica",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/ceramic [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/porcelain",
+    "category": "Imágenes",
+    "description": "Porcelana",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/porcelain [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/crystal",
+    "category": "Imágenes",
+    "description": "Cristal",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/crystal [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/diamond",
+    "category": "Imágenes",
+    "description": "Diamante",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/diamond [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/goldleaf",
+    "category": "Imágenes",
+    "description": "Pan de oro",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/goldleaf [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/silverchrome",
+    "category": "Imágenes",
+    "description": "Cromo",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/silverchrome [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/rusted",
+    "category": "Imágenes",
+    "description": "Metal oxidado",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/rusted [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/oxidized",
+    "category": "Imágenes",
+    "description": "Pátina",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/oxidized [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/carbonfiber",
+    "category": "Imágenes",
+    "description": "Fibra de carbono",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/carbonfiber [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  },
+  {
+    "cmd": "/onepager",
+    "category": "Investigación",
+    "description": "Resumen de una página",
+    "status": "Comunitario",
+    "source": "https://github.com/Shineii86/AISlashCommands",
+    "platform": "ChatGPT como instrucción; no es función nativa",
+    "example": "/onepager [describe aquí tu tema y contexto]",
+    "origin": "Shineii86/AISlashCommands"
+  }
+]
